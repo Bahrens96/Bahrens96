@@ -2,8 +2,7 @@ Hello I am Brian,
 
 In am interested in coding various projects utilizing various languages that I know. There will be more to come.
 
-I am currently wrapping up my front end web development course found here https://www.udemy.com/course/front-end-web-development/
-I would like to get back into Python soon.
+I am currently reading about coding my own games in Python: https://inventwithpython.com/invent4thed/
 
 
 
