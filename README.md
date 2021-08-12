@@ -9,11 +9,10 @@ I am currently reading about coding my own games in Python: https://inventwithpy
 
 
 
-- 👋 Hi, I’m @Bahrens96
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m  Brian
+- 👀 I’m interested in  learning new programming languages and their various applications. I am hoping to obtian an entry level software/automation position.
+- 🌱 I’m currently learning  game programming with python by Al Sweigart https://inventwithpython.com/invent4thed/
+- 📫 You can reach me via email at bahrens96@gmail.com
 
 <!---
 Bahrens96/Bahrens96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
