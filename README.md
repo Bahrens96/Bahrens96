@@ -10,7 +10,7 @@ I am currently reading about coding my own games in Python: https://inventwithpy
 
 
 - 👋 Hi, I’m  Brian
-- 👀 I’m interested in  learning new programming languages and their various applications. I am hoping to obtian an entry level software/automation position.
+- 👀 I’m interested in  learning new programming languages and their various applications. I am hoping to obtain an entry level software/automation position.
 - 🌱 I’m currently learning  game programming with python by Al Sweigart https://inventwithpython.com/invent4thed/
 - 📫 You can reach me via email at bahrens96@gmail.com
 
